@@ -1,7 +1,6 @@
+pyterrier
 pandas
 transformers
 torch
 nltk
 spacy
-defaultdict
-math
