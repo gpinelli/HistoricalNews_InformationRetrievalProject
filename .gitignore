@@ -1,5 +1,9 @@
 # Ignore data folder
 data/
 
+# Ignore index folders
+contextIndex/
+ocrIndex/
+
 # Ignore IDE settings
 .idea/
