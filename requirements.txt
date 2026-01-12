@@ -7,3 +7,4 @@ spacy
 matplotlib
 numpy
 pyterrier-alpha
+sentence-transformers
