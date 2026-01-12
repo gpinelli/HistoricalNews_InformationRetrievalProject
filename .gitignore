@@ -7,3 +7,6 @@ ocrIndex/
 
 # Ignore IDE settings
 .idea/
+
+# Ignore system files
+.DS_Store
