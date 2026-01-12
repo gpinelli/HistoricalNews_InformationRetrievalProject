@@ -8,3 +8,4 @@ matplotlib
 numpy
 pyterrier-alpha
 sentence-transformers
+seaborn
