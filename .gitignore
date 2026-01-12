@@ -4,6 +4,7 @@ data/
 # Ignore index folders
 contextIndex/
 ocrIndex/
+expResults/
 
 # Ignore IDE settings
 .idea/
